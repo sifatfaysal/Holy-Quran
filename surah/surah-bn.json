@@ -4,7 +4,7 @@
         "name": "ٱلْفَاتِحَةِ",
         "transliteration": "আল ফাতিহা",
         "translation": "সূচনা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 7
     },
     {
@@ -44,7 +44,7 @@
         "name": "الأَنۡعَامِ",
         "transliteration": "আল আনআম",
         "translation": "গৃৃহপালিত পশু",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 165
     },
     {
@@ -52,7 +52,7 @@
         "name": "الأَعۡرَافِ",
         "transliteration": "আল আ'রাফ",
         "translation": "উচু স্থানসমূহ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 206
     },
     {
@@ -76,7 +76,7 @@
         "name": "يُونُسَ",
         "transliteration": "ইউনুস",
         "translation": "নবী ইউনুস",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 109
     },
     {
@@ -84,7 +84,7 @@
         "name": "هُودٍ",
         "transliteration": "হুদ",
         "translation": "নবী হুদ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 123
     },
     {
@@ -92,7 +92,7 @@
         "name": "يُوسُفَ",
         "transliteration": "ইউসূফ",
         "translation": "নবী ইউসুফ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 111
     },
     {
@@ -108,7 +108,7 @@
         "name": "إِبۡرَاهِيمَ",
         "transliteration": "ইব্রাহীম",
         "translation": "নবী ইব্রাহিম",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 52
     },
     {
@@ -116,7 +116,7 @@
         "name": "الحِجۡرِ",
         "transliteration": "সূরা আল হিজর",
         "translation": "পাথুরে পাহাড়",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 99
     },
     {
@@ -124,7 +124,7 @@
         "name": "النَّحۡلِ",
         "transliteration": "আন নাহল",
         "translation": "মৌমাছি",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 128
     },
     {
@@ -132,7 +132,7 @@
         "name": "الإِسۡرَاءِ",
         "transliteration": "বনী ইসরাঈল",
         "translation": "ইসরায়েলের সন্তানগণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 111
     },
     {
@@ -140,7 +140,7 @@
         "name": "الكَهۡفِ",
         "transliteration": "আল কাহফ",
         "translation": "গুহা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 110
     },
     {
@@ -148,7 +148,7 @@
         "name": "مَرۡيَمَ",
         "transliteration": "মারইয়াম",
         "translation": "মারিয়াম (নবী ঈসার মা)",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 98
     },
     {
@@ -156,7 +156,7 @@
         "name": "طه",
         "transliteration": "ত্বোয়া-হা",
         "translation": "ত্বোয়া-হা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 135
     },
     {
@@ -164,7 +164,7 @@
         "name": "الأَنبِيَاءِ",
         "transliteration": "আল আম্বিয়া",
         "translation": "নবীগণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 112
     },
     {
@@ -180,7 +180,7 @@
         "name": "المُؤۡمِنُونَ",
         "transliteration": "আল মু'মিনূন",
         "translation": "বিশ্বাসীগণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 118
     },
     {
@@ -196,7 +196,7 @@
         "name": "الفُرۡقَانِ",
         "transliteration": "আল-ফুরকান",
         "translation": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 77
     },
     {
@@ -204,7 +204,7 @@
         "name": "الشُّعَرَاءِ",
         "transliteration": "আশ-শো'আরা",
         "translation": "কবিগণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 227
     },
     {
@@ -212,7 +212,7 @@
         "name": "النَّمۡلِ",
         "transliteration": "আন নমল",
         "translation": "পিপীলিকা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 93
     },
     {
@@ -220,7 +220,7 @@
         "name": "القَصَصِ",
         "transliteration": "আল কাসাস",
         "translation": "ঘটনা,কাহিনী",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 88
     },
     {
@@ -228,7 +228,7 @@
         "name": "العَنكَبُوتِ",
         "transliteration": "আল আনকাবুত",
         "translation": "মাকড়সা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 69
     },
     {
@@ -236,7 +236,7 @@
         "name": "الرُّومِ",
         "transliteration": "আর-রূম",
         "translation": "রোমান জাতি",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 60
     },
     {
@@ -244,7 +244,7 @@
         "name": "لُقۡمَانَ",
         "transliteration": "লোকমান",
         "translation": "একজন জ্ঞানী ব্যক্তি",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 34
     },
     {
@@ -252,7 +252,7 @@
         "name": "السَّجۡدَةِ",
         "transliteration": "আস সেজদাহ্",
         "translation": "সিজদাহ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 30
     },
     {
@@ -268,7 +268,7 @@
         "name": "سَبَإٍ",
         "transliteration": "সাবা",
         "translation": "রানী সাবা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 54
     },
     {
@@ -276,7 +276,7 @@
         "name": "فَاطِرٍ",
         "transliteration": "ফাতির",
         "translation": "আদি স্রষ্টা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 45
     },
     {
@@ -284,7 +284,7 @@
         "name": "يسٓ",
         "transliteration": "ইয়াসীন",
         "translation": "ইয়াসীন",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 83
     },
     {
@@ -292,7 +292,7 @@
         "name": "الصَّافَّاتِ",
         "transliteration": "আস-সাফফাত",
         "translation": "সারিবদ্ধভাবে দাড়ানো",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 182
     },
     {
@@ -300,7 +300,7 @@
         "name": "صٓ",
         "transliteration": "ছোয়াদ",
         "translation": "আরবি বর্ণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 88
     },
     {
@@ -308,7 +308,7 @@
         "name": "الزُّمَرِ",
         "transliteration": "আল-যুমার",
         "translation": "দল-বদ্ধ জনতা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 75
     },
     {
@@ -316,7 +316,7 @@
         "name": "غَافِرٍ",
         "transliteration": "আল-মু'মিন",
         "translation": "বিশ্বাসী",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 85
     },
     {
@@ -324,7 +324,7 @@
         "name": "فُصِّلَتۡ",
         "transliteration": "হা-মীম সেজদাহ",
         "translation": "সুস্পষ্ট বিবরণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 54
     },
     {
@@ -332,7 +332,7 @@
         "name": "الشُّورَىٰ",
         "transliteration": "আশ-শুরা",
         "translation": "পরামর্শ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 53
     },
     {
@@ -340,7 +340,7 @@
         "name": "الزُّخۡرُفِ",
         "transliteration": "যুখরুফ",
         "translation": "সোনাদানা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 89
     },
     {
@@ -348,7 +348,7 @@
         "name": "الدُّخَانِ",
         "transliteration": "আদ দোখান",
         "translation": "ধোঁয়া",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 59
     },
     {
@@ -356,7 +356,7 @@
         "name": "الجَاثِيَةِ",
         "transliteration": "আল জাসিয়া",
         "translation": "নতজানু",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 37
     },
     {
@@ -364,7 +364,7 @@
         "name": "الأَحۡقَافِ",
         "transliteration": "আল আহক্বাফ",
         "translation": "বালুর পাহাড়",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 35
     },
     {
@@ -396,7 +396,7 @@
         "name": "قٓ",
         "transliteration": "ক্বাফ",
         "translation": "আরবি বর্ণ ক্বাফ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 45
     },
     {
@@ -404,7 +404,7 @@
         "name": "الذَّارِيَاتِ",
         "transliteration": "আয-যারিয়াত",
         "translation": "বিক্ষেপকারী বাতাস",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 60
     },
     {
@@ -412,7 +412,7 @@
         "name": "الطُّورِ",
         "transliteration": "আত্ব তূর",
         "translation": "পাহাড়",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 49
     },
     {
@@ -420,7 +420,7 @@
         "name": "النَّجۡمِ",
         "transliteration": "আন-নাজম",
         "translation": "তারা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 62
     },
     {
@@ -428,7 +428,7 @@
         "name": "القَمَرِ",
         "transliteration": "আল ক্বামার",
         "translation": "চন্দ্র",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 55
     },
     {
@@ -444,7 +444,7 @@
         "name": "الوَاقِعَةِ",
         "transliteration": "আল ওয়াক্বিয়া",
         "translation": "নিশ্চিত ঘটনা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 96
     },
     {
@@ -532,7 +532,7 @@
         "name": "المُلۡكِ",
         "transliteration": "আল মুলক",
         "translation": "সার্বভৌম কর্তৃত্ব",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 30
     },
     {
@@ -540,7 +540,7 @@
         "name": "القَلَمِ",
         "transliteration": "আল কলম",
         "translation": "কলম",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 52
     },
     {
@@ -548,7 +548,7 @@
         "name": "الحَاقَّةِ",
         "transliteration": "আল হাক্বক্বাহ",
         "translation": "নিশ্চিত সত্য",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 52
     },
     {
@@ -556,7 +556,7 @@
         "name": "المَعَارِجِ",
         "transliteration": "আল মা'আরিজ",
         "translation": "উন্নয়নের সোপান",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 44
     },
     {
@@ -564,7 +564,7 @@
         "name": "نُوحٍ",
         "transliteration": "নূহ",
         "translation": "নবী নূহ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 28
     },
     {
@@ -572,7 +572,7 @@
         "name": "الجِنِّ",
         "transliteration": "আল জিন",
         "translation": "জ্বিন সম্প্রদায়",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 28
     },
     {
@@ -580,7 +580,7 @@
         "name": "المُزَّمِّلِ",
         "transliteration": "মুযযামমিল",
         "translation": "বস্ত্র আচ্ছাদনকারী",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 20
     },
     {
@@ -588,7 +588,7 @@
         "name": "المُدَّثِّرِ",
         "transliteration": "আল মুদ্দাসসির",
         "translation": "পোশাক পরিহিত",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 56
     },
     {
@@ -596,7 +596,7 @@
         "name": "القِيَامَةِ",
         "transliteration": "আল ক্বেয়ামাহ",
         "translation": "পুনরুথান",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 40
     },
     {
@@ -612,7 +612,7 @@
         "name": "المُرۡسَلَاتِ",
         "transliteration": "আল মুরসালাত",
         "translation": "প্রেরিত পুরুষবৃন্দ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 50
     },
     {
@@ -620,7 +620,7 @@
         "name": "النَّبَإِ",
         "transliteration": "আন-নাবা",
         "translation": "মহাসংবাদ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 40
     },
     {
@@ -628,7 +628,7 @@
         "name": "النَّازِعَاتِ",
         "transliteration": "আন-নযিআ'ত",
         "translation": "প্রচেষ্টাকারী",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 46
     },
     {
@@ -636,7 +636,7 @@
         "name": "عَبَسَ",
         "transliteration": "আবাসা",
         "translation": "তিনি ভ্রুকুটি করলেন",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 42
     },
     {
@@ -644,7 +644,7 @@
         "name": "التَّكۡوِيرِ",
         "transliteration": "আত-তাকভীর",
         "translation": "অন্ধকারাচ্ছন্ন",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 29
     },
     {
@@ -652,7 +652,7 @@
         "name": "الانفِطَارِ",
         "transliteration": "আল ইনফিতার",
         "translation": "বিদীর্ণ করা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 19
     },
     {
@@ -660,7 +660,7 @@
         "name": "المُطَفِّفِينَ",
         "transliteration": "আত মুত্বাফ্‌ফিফীন",
         "translation": "প্রতারকগণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 36
     },
     {
@@ -668,7 +668,7 @@
         "name": "الانشِقَاقِ",
         "transliteration": "আল ইনশিক্বাক্ব",
         "translation": "খন্ড-বিখন্ড করণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 25
     },
     {
@@ -676,7 +676,7 @@
         "name": "البُرُوجِ",
         "transliteration": "আল বুরূজ",
         "translation": "আল-বুরুজ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 22
     },
     {
@@ -684,7 +684,7 @@
         "name": "الطَّارِقِ",
         "transliteration": "আত্ব-তারিক্ব",
         "translation": "রাতের আগন্তুক",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 17
     },
     {
@@ -692,7 +692,7 @@
         "name": "الأَعۡلَىٰ",
         "transliteration": "আল আ'লা",
         "translation": "সর্বোর্ধ্ব",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 19
     },
     {
@@ -700,7 +700,7 @@
         "name": "الغَاشِيَةِ",
         "transliteration": "আল গাশিয়াহ",
         "translation": "বিহ্বলকর ঘটনা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 26
     },
     {
@@ -708,7 +708,7 @@
         "name": "الفَجۡرِ",
         "transliteration": "আল ফজর",
         "translation": "ভোরবেলা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 30
     },
     {
@@ -716,7 +716,7 @@
         "name": "البَلَدِ",
         "transliteration": "আল বালাদ",
         "translation": "নগর",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 20
     },
     {
@@ -724,7 +724,7 @@
         "name": "الشَّمۡسِ",
         "transliteration": "আশ-শামস",
         "translation": "সূর্য্য",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 15
     },
     {
@@ -732,7 +732,7 @@
         "name": "اللَّيۡلِ",
         "transliteration": "আল লায়ল",
         "translation": "রাত্রি",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 21
     },
     {
@@ -740,7 +740,7 @@
         "name": "الضُّحَىٰ",
         "transliteration": "আদ্ব-দ্বোহা",
         "translation": "পূর্বাহ্নের সূর্যকিরণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 11
     },
     {
@@ -748,7 +748,7 @@
         "name": "الشَّرۡحِ",
         "transliteration": "আল ইনশিরাহ",
         "translation": "বক্ষ প্রশস্তকরণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 8
     },
     {
@@ -756,7 +756,7 @@
         "name": "التِّينِ",
         "transliteration": "ত্বীন",
         "translation": "ডুমুর",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 8
     },
     {
@@ -764,7 +764,7 @@
         "name": "العَلَقِ",
         "transliteration": "আলাক",
         "translation": "রক্তপিন্ড",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 19
     },
     {
@@ -772,7 +772,7 @@
         "name": "القَدۡرِ",
         "transliteration": "কদর",
         "translation": "পরিমাণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 5
     },
     {
@@ -796,7 +796,7 @@
         "name": "العَادِيَاتِ",
         "transliteration": "আল-আদিয়াত",
         "translation": "অভিযানকারী",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 11
     },
     {
@@ -804,7 +804,7 @@
         "name": "القَارِعَةِ",
         "transliteration": "ক্বারিয়াহ",
         "translation": "মহাসংকট",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 11
     },
     {
@@ -812,7 +812,7 @@
         "name": "التَّكَاثُرِ",
         "transliteration": "তাকাসূর",
         "translation": "প্রাচুর্যের প্রতিযোগিতা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 8
     },
     {
@@ -820,7 +820,7 @@
         "name": "العَصۡرِ",
         "transliteration": "আসর",
         "translation": "অপরাহ্ন",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 3
     },
     {
@@ -828,7 +828,7 @@
         "name": "الهُمَزَةِ",
         "transliteration": "হুমাযাহ",
         "translation": "পরনিন্দাকারী",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 9
     },
     {
@@ -836,7 +836,7 @@
         "name": "الفِيلِ",
         "transliteration": "আল ফীল",
         "translation": "হাতি",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 5
     },
     {
@@ -844,7 +844,7 @@
         "name": "قُرَيۡشٍ",
         "transliteration": "কুরাইশ",
         "translation": "কুরাইশ গোত্র",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 4
     },
     {
@@ -852,7 +852,7 @@
         "name": "المَاعُونِ",
         "transliteration": "মাঊন",
         "translation": "সাহায্য-সহায়তা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 7
     },
     {
@@ -860,7 +860,7 @@
         "name": "الكَوۡثَرِ",
         "transliteration": "কাওসার",
         "translation": "প্রাচুর্য",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 3
     },
     {
@@ -868,7 +868,7 @@
         "name": "الكَافِرُونَ",
         "transliteration": "কাফিরুন",
         "translation": "অস্বীকারকারীগণ",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 6
     },
     {
@@ -884,7 +884,7 @@
         "name": "المَسَدِ",
         "transliteration": "লাহাব",
         "translation": "জ্বলন্ত অঙ্গার",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 5
     },
     {
@@ -892,7 +892,7 @@
         "name": "الإِخۡلَاصِ",
         "transliteration": "আল ইখলাস",
         "translation": "একনিষ্ঠতা",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 4
     },
     {
@@ -900,7 +900,7 @@
         "name": "الفَلَقِ",
         "transliteration": "আল ফালাক্ব",
         "translation": "নিশিভোর",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 5
     },
     {
@@ -908,7 +908,7 @@
         "name": "النَّاسِ",
         "transliteration":  "আন নাস",
         "translation": "মানবজাতি",
-        "revelation_type": "মাক্কি ",
+        "revelation_type": "মাক্কি",
         "total_verses": 6
     }
 ]
